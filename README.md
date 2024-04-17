@@ -11,14 +11,17 @@ AhMyth Plus: A modified, bug-fixed, and feature-enhanced version of the disconti
 - Client side : android application (backdoor)
 
 ## Navigate
-- <a href="https://github.com/VenomDino/AhMyth-Extended#features">Features</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#important-read-it-carefully">Important (Read carefully)</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#notice">Notice</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#getting-started">Getting started</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#installation">Installation</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#screenshots">Screenshots</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#issues-you-may-face">Issues (You may face)</a>
-- <a href="https://github.com/VenomDino/AhMyth-Extended#contacts">Contacts</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#features">Features</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#important-read-it-carefully">Important (Read carefully)</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#notice">Notice</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#getting-started">Getting started</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#installation">Installation</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#usage">Usage</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#recommendations">Recommendations</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#screenshots">Screenshots</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#issues-you-may-face">Issues (You may face)</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#contacts">Contacts</a>
+- <a href="https://github.com/VenomDino/AhMyth-Plus#check-it-out">Check it out</a>
 
 ## Features
 - Location tracking using GPS
@@ -60,7 +63,7 @@ I have published this modified version of official Ahmyth solely for parental pu
  - `npm start`
   
 #### Usage
-- First download the agent app (backdoor) from [release page](https://as.co) or you can generate the agent apk from the source using Android Studio.
+- First download the agent app (backdoor) from [release page](https://github.com/VenomDino/AhMyth-Plus/releases) or you can generate the agent apk from the source using Android Studio.
 - Install the backdoor (agent app) on the victim's android device.
 - Open the installed backdoor (agent app) and provide your control panel's (AhMyth Server) address and port number and click on "Save & Continue" button.
 - Allow all required permissions.
@@ -70,15 +73,13 @@ I have published this modified version of official Ahmyth solely for parental pu
 
 ## Screenshots
 
-<img width="600" style="max-width: 100%;" src="https://i.ibb.co/dPxTbZH/splash.png" /> 
-<br>
-<img width="600" style="max-width: 100%;" src="https://camo.githubusercontent.com/79e87069d44474f85c676b82bd97881cd01ee455c1f8d7d41310e7e37184177e/687474703a2f2f692e696d6775722e636f6d2f6e4854474748692e706e67" />
+<img width="600" style="max-width: 100%;" src="https://i.ibb.co/Xbzh2Dn/splash.png" /> 
 <br>
 <img width="600" style="max-width: 100%;" src="https://i.ibb.co/pvYv2w7/lab.png" />
 
 ## Issues (You may face)
 
-- Error while `npm i speaker`. Then see <a href="https://stackoverflow.com/questions/57879150/how-can-i-solve-error-gypgyp-errerr-find-vsfind-vs-msvs-version-not-set-from-c"> this solution.</a>
+- Error while `npm install speaker`. Then see <a href="https://stackoverflow.com/questions/57879150/how-can-i-solve-error-gypgyp-errerr-find-vsfind-vs-msvs-version-not-set-from-c"> this solution.</a>
 
 ## Contacts
 
