@@ -5,7 +5,7 @@ AhMyth Plus: A modified, bug-fixed, and feature-enhanced version of the disconti
 (Please star ⭐ mark this project to support)
 (Please guys use this project for good purpose only. Otherwise I will remove this project from from my repository.)
 
-### It consists of two parts :
+## It consists of two parts :
 
 - Server side : desktop application based on electron framework (control panel)
 - Client side : android application (backdoor)
