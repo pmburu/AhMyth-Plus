@@ -10,19 +10,6 @@ AhMyth Plus: A modified, bug-fixed, and feature-enhanced version of the disconti
 - Server side : desktop application based on electron framework (control panel)
 - Client side : android application (backdoor)
 
-## Navigate
-- <a href="https://github.com/VenomDino/AhMyth-Plus#features">Features</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#important-read-it-carefully">Important (Read carefully)</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#notice">Notice</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#getting-started">Getting started</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#installation">Installation</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#usage">Usage</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#recommendations">Recommendations</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#screenshots">Screenshots</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#issues-you-may-face">Issues (You may face)</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#contacts">Contacts</a>
-- <a href="https://github.com/VenomDino/AhMyth-Plus#check-it-out">Check it out</a>
-
 ## Features
 - Location tracking using GPS
 - Microphone Recording
