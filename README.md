@@ -58,10 +58,10 @@ I have published this modified version of official Ahmyth solely for parental pu
 #### Recommendations
 - To bypass Google Play Protect, you should sign the backdoor (agent apk) with your own key. Or you can also disable Play Protect on victim's phone.
 
-#### Easy usage
-##### Windows x64
+## Easy usage
+#### Windows x64
 - First download [Node JS](https://nodejs.org/en/download) and install on your Windows PC.
-- Then download [Control-Panel_Win-x64.zip](https://github.com/VenomDino/AhMyth-Plus/releases) zip file and extract that zip and then just dowble click on **start.bat** file.
+- Then download [Control-Panel_Win-x64.zip](https://github.com/VenomDino/AhMyth-Plus/releases) zip file and extract that zip and then just double click on **start.bat** file.
 - Done ✔️
 ## Screenshots
 
