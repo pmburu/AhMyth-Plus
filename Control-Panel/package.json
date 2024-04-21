@@ -3,7 +3,9 @@
     "devDependencies": {
         "electron": "^9.4.1",
         "electron-builder": "^22.14.13",
-        "electron-packager": "^15.2.0"
+        "electron-packager": "^15.2.0",
+        "speaker": "^0.5.4",
+        "wav": "^1.0.2"
     },
     "license": "GNU GPLv3",
     "build": {
@@ -24,9 +26,5 @@
         "build:win": "npm run build:win32 && npm run build:win64",
         "build:win32": "npx electron-builder --win --ia32",
         "build:win64": "npx electron-builder --win --x64"
-    },
-    "dependencies": {
-        "speaker": "^0.5.4",
-        "wav": "^1.0.2"
     }
 }

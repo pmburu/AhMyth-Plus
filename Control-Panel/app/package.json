@@ -1,8 +1,8 @@
 {
-    "name": "AhMyth Plus",
+    "name": "AhMyth-Plus",
     "description": "Android Remote Administration Tool",
     "author": "Venom Dino <venomdino@outlook.com>",
-    "productName": "AhMyth",
+    "productName": "AhMyth-Plus",
     "version": "1.0.0",
     "homepage": "https://github.com/VenomDino/AhMyth-Plus",
     "main": "main.js",
